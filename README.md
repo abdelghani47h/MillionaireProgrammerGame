@@ -129,4 +129,3 @@ This game challenges players with **programming questions** and simulates the ex
 
 This project demonstrates **C++ console programming**, **animations**, **user interaction**, and **game logic management** in a structured and interactive way.
 
-Perfect for showcasing on **GitHub** or including in your **programming portfolio**.
